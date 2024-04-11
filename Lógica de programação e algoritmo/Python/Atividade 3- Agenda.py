@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome: '))
+idade = float(input('Digite a sua idade: '))
+email = str(input('Digite seu email: '))
+data = input('Digite sua data de nascimento: ')
+tel = input('Digite sua telefone: ')
